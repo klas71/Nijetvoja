@@ -1,0 +1,7 @@
+echo "# Nijetvoja" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git grana -M main 
+git remote add origin https://github.com/klas71/Nijetvoja.git
+ git push - u podrijetlo glavno
